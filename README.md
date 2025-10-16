@@ -1,5 +1,5 @@
-# MF_plotter-
-Bass Clarinet Timbre Space Visualizer and Sampler
+# Bass Clarinet Multiphonic Timbre Space Visulizer and Sampler
+
 
 Required software to run code: 
 
