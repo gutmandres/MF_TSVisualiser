@@ -3,7 +3,7 @@
 // An artistic research project by Andres Gutierrez Martinez and Chiara Percivati
 ///////////////////////////////////////////////////////////////////////////////////
 ////////// Run each function individually by clicking Cmd + Shift + B within batches of code with close parentheses ////
-///////// Then copile the selected parenthesis clicking Cmd + Enter ////////
+///////// Then compile the selected parenthesis clicking Cmd + Enter ////////
 
 (
 //////////////////////////////////////////////////////////////////////
