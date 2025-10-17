@@ -3,6 +3,7 @@
 // An artistic research project by Andres Gutierrez Martinez and Chiara Percivati
 ///////////////////////////////////////////////////////////////////////////////////
 ////////// Run each function individually by clicking Cmd + Shift + B within batches of code with close parentheses ////
+///////// Then copile the selected parenthesis clicking Cmd + Enter ////////
 
 (
 //////////////////////////////////////////////////////////////////////
@@ -201,7 +202,6 @@ r = Routine {
 )
 
 ////////// 3. Plot the data and create a sampler to listen to each data point ////////////////
-//////////    This is the final step /////// The data will be plotted
 /////////     By chaning the values below between 0 and 2 for the x axis, you can create two separate plots
 ////////      to see the three dimensions anchored by the second dimension in the y-axis
 (
@@ -395,10 +395,11 @@ r = Routine {
 	}.play;
 };
 )
-
-////// Two differet plotters //////
+/////////////////////////////////
+////// 4.0 final step ///////////
+/////Two differet plotters //////
 ////// the first plot opens the window for descriptors related to spectral brightness x-axis (centroid) and estimated pitch y-axis.
-////// the second plot makes the window for descriptors related to brightness x-axis and noisiyness y-axis (spectral flatness)
+////// the second plot makes the window for descriptors related to brightness x-axis and noisiyness y-axis (spectral flatnes
 (
 // plot Centroid vs Pitch ///
 ~plot2D_descriptors.(~corpus,~indices2D, ~ds2D_CP); /// Visualize the data ///////
