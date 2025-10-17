@@ -1,4 +1,4 @@
-# Bass Clarinet Multiphonic Timbre Space Visulizer and Sampler
+# Bass Clarinet Multiphonic Timbre Space Visualiser and Sampler
 
 
 Required software to run code: 
@@ -17,10 +17,10 @@ Mac OS:
 
 Folder contents: 
 
-Supercollider cod file for MFCC analysis of bass clarinet multiphonics: bassClarinet_3D_MFCCs.scd
+Supercollider code file for MFCC analysis of bass clarinet multiphonics: bassClarinet_3D_MFCCs.scd
 Supercollider code file for descriptors (pitch, centroid, flatness): bassClarinet_2D_descriptors.scd
 
-Wav file with multi phonic selections: collection_sound.wav
+Wav file with multiphonic selections: collection_sound.mp3
 Txt file with indices for analysis segmentation: collection_index.txt
 
 Datasets: 
