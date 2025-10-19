@@ -9,7 +9,7 @@
 ///// 1. Load file paths, sound collection, index and datasets:
 //////////////////////////////////////////////////////////////////////
 ~path = PathName(thisProcess.nowExecutingPath).parentPath;/// Takes the path of the .scd file as the main path
-{~path1 = ~path ++ "collection_sound.wav";}.defer(0.8);
+{~path1 = ~path ++ "collection_sound.mp3";}.defer(0.8);
 {~path2 =  ~path ++ "collection_index.txt"}.defer(0.3);
 {~corpus = SoundFile.openRead(~path1).asBuffer;}.defer(1.0);
 {~indicesArray = Object.readArchive(~path2);}.defer(1.2);
