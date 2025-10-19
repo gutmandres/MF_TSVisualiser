@@ -201,7 +201,7 @@ r = Routine {// shows the image for each multiphonic
 )
 ////////// 3. Plot the data and create a sampler to listen to each data point ////////////////
 //////////    This is the final step /////// The data will be plotted
-/////////     By chaning the values below between 0 and 2 for the x axis, you can create two separate plots -> in line 225
+/////////     By changing the values below between 0 and 2 for the x axis, you can create two separate plots -> in line 226
 ////////      to see the three dimensions anchored by the second dimension in the y-axis
 (
 ~plotMDS = {
