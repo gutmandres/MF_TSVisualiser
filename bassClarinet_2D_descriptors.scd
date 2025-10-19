@@ -202,8 +202,7 @@ r = Routine {
 )
 
 ////////// 3. Plot the data and create a sampler to listen to each data point ////////////////
-/////////     By chaning the values below between 0 and 2 for the x axis, you can create two separate plots
-////////      to see the three dimensions anchored by the second dimension in the y-axis
+//////////////////////////////////////////////////////////////////////////////////////////////    
 (
 ~plot2D_descriptors = {
 	arg buffer, indices, redux_ds, action;
