@@ -2,9 +2,13 @@
 
 
 Required software to run code: 
+Given updates to SuperCollider, older verions of FluCoMa don't run properly. Uses the corresponding versions mentioned below. 
 
-*Supercollider 3.13.0
-*FluidCorpusManipulation External 
+*SuperCollider 3.13 
+*FluidCorpusManipulation External build  1.0.8
+
+*SuperCollider 3.14
+*FluidCoorpussManipulation External build 1.0.9
 
 Preliminary Steps 
 
