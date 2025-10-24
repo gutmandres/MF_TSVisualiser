@@ -45,5 +45,9 @@ INSTRUCTIONS
 
 Once the preliminary steps have been completed, open one of the two files .scd files and follow the instructions within them. 
 
+////////////////////////////////////////////////
+
+This project was developed as part of Chiara’s doctoral project “Different Tubes” at the University of Antwerp, Royal Conservatoire Antwerp, and Orpheus Institute, and of Andrés’s postdoctoral fellowship at the Schulich School of Music of McGilll University, as part of the Analysis, Creation, and Teaching of Orchestration (ACTOR) Project, with the support of the Centre for Interdisciplinary Research in Music Media and Technology (CIRMMT) in Montreal. 
+
 
 
